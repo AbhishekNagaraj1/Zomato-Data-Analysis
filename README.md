@@ -1,7 +1,7 @@
 # Zomato-Data-Analysis
-Exploratory Data Analysis on the Zomato - India Restaurant Data
-Predicting the Rating of a Restaurant
-Multi class Classification problem
+Exploratory Data Analysis on the Zomato - India Restaurant Data   
+Predicting the Rating of a Restaurant   
+Multi class Classification problem    
 Machine Learning Models Built:
   1. Decision Tree
   2. Random Forest
