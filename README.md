@@ -8,5 +8,5 @@ Machine Learning Models Built:
   3. K Nearest Neighbor
   4. Artificial Neural Networks
   
-Best Obtained Accuracy: 69.4% (Decision Tree Classifier)
+Best Obtained Accuracy: 69.4% (Decision Tree Classifier)  
 Improved Accuracy: 76.9% (Decision Tree Classifier with Cross Validation)
